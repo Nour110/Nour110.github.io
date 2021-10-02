@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Nour.
-I am human.
+My name is Nour.\\
+I am human.\\
 :)
 
 ### More Information
