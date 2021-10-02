@@ -195,7 +195,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $20B2AA;
+  color: $darkblue;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -205,7 +205,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $darkblue;
   font-size: 16px;
 
   @include mobile {
