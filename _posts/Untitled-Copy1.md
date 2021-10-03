@@ -1,3 +1,9 @@
+---
+layout: post
+title: HOOPLAH
+---
+
+
 In this blog post, we will explore how to visual data using python.\
 We will need to import numpy pandas and pyplot from matplotlib.\
 \
